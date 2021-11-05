@@ -1,0 +1,13 @@
+{
+  "name": "single-spa-layout-ts-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "single-spa-layout": "^2.0.0",
+    "typescript": "^4.5.0-beta"
+  }
+}
