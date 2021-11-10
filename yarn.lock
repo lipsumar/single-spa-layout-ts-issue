@@ -32,7 +32,7 @@ single-spa@^6.0.0-beta.1:
   resolved "https://registry.yarnpkg.com/single-spa/-/single-spa-6.0.0-beta.2.tgz#90bd3af89547bd9c24ad4dd8092b9fea2e27c530"
   integrity sha512-h3DNJ5Fkcv5M0bFb/vu55qaUkCnySEUNhX3gi3Fd0Dohy4eNWbyoiyxsqOzqH8MslCBpwBJ761VfO1KnZSb7qA==
 
-typescript@^4.5.0-beta:
-  version "4.5.0-beta"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.5.0-beta.tgz#f2e2724d93c35e7a0d0d1e55a22d1e4efb2181c7"
-  integrity sha512-7PvWhki2lwukaR9osVhFnNzxaE4LM+gC94dlwcvS+Tqz8+U65va7FbKo02bT+/MFlnMPM8bsPUXvHiMD/Mg3Jg==
+typescript@^4.4.4:
+  version "4.4.4"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.4.4.tgz#2cd01a1a1f160704d3101fd5a58ff0f9fcb8030c"
+  integrity sha512-DqGhF5IKoBl8WNf8C1gu8q0xZSInh9j1kJJMqT3a94w1JzVaBU4EXOSMrz9yDqMT0xt3selp83fuFMQ0uzv6qA==
